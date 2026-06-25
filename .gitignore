@@ -214,5 +214,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Lab 21 local submission artifacts
+/content/
+/lab21_submit_partial.zip
+/lab21_2A202600976_DoDucAnh.zip
+/Lab21_LoRA_Finetuning_T4.ipynb
+
 # Streamlit
 .streamlit/secrets.toml
